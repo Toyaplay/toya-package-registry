@@ -1,5 +1,5 @@
 {
-    "api": "https://temp.com",
+    "api": "https://registry-backend-gs7vz6d6iq-uc.a.run.app",
     "fallback_registries": [
         "https://github.com/UpliftGames/wally-index"
     ]
